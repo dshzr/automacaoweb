@@ -1,2 +1,0 @@
-cd C:\Users\Wellington\Desktop\automacaoweb\app
-npm run electron
